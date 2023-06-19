@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.card {
+    width: 18rem;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    margin-top:10%;
+
+}
+
+button[type='button'] {
+  
+    border: 1px solid white;
+    border-radius: 50% 50% 50% 50%;
+}
+
+.btn {
+    cursor: pointer;
+}
