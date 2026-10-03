@@ -3,12 +3,12 @@ import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
-import JuniorCounter from './JuniorCounter'
+import Counter from './Counter'
 function App() {
 
   return (
     <>
-    <JuniorCounter />
+    <Counter />
     </>
   )
 }
